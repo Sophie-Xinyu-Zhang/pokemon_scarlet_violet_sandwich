@@ -37,6 +37,9 @@ def get_all_ing_raw_list():
     # combine the two lists
     ing_list.extend(seasoning_list)
 
+    # sort the list by name in alphabetical order
+    ing_list.sort(key=lambda x: x['name'])
+
     return ing_list
 
 def all_ing_obj_dic(raw_ing_list):
