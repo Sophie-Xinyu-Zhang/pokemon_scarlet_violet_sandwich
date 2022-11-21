@@ -1,0 +1,736 @@
+Jam,"Sweet: 16
+Salty: 4
+Sour: 16
+Bitter: 0
+Hot: 0
+Umami: 0","Egg Power: 5
+Catching Power: 0
+Exp. Power: -3
+Item Drop Power: 12
+Raid Power: 0
+Title Power: 0
+Sparkling Power: 0
+Humongo Power: 0
+Teensy Power: -15
+Encounter Power: 0","Normal: 0
+Fighting: 0
+Flying: 0
+Poison: 0
+Ground: 0
+Rock: 0
+Bug: 0
+Ghost: 0
+Steel: 0
+Fire: 0
+Water: 0
+Grass: 0
+Electric: 4
+Psychic: 0
+Ice: 4
+Dragon: 0
+Dark: 4
+Fairy: 0",pi_berryjam,0
+Butter,"Sweet: 12
+Salty: 12
+Sour: 0
+Bitter: 0
+Hot: 0
+Umami: 0","Egg Power: -3
+Catching Power: 0
+Exp. Power: 12
+Item Drop Power: 0
+Raid Power: 21
+Title Power: 0
+Sparkling Power: 0
+Humongo Power: 0
+Teensy Power: 0
+Encounter Power: 0","Normal: 0
+Fighting: 0
+Flying: 0
+Poison: 0
+Ground: 0
+Rock: 0
+Bug: 2
+Ghost: 2
+Steel: 0
+Fire: 0
+Water: 0
+Grass: 0
+Electric: 0
+Psychic: 0
+Ice: 0
+Dragon: 0
+Dark: 0
+Fairy: 0",pi_butter,0
+Chili Sauce,"Sweet: 8
+Salty: 12
+Sour: 8
+Bitter: 0
+Hot: 20
+Umami: 0","Egg Power: -3
+Catching Power: 0
+Exp. Power: 12
+Item Drop Power: 0
+Raid Power: 21
+Title Power: 0
+Sparkling Power: 0
+Humongo Power: 0
+Teensy Power: 0
+Encounter Power: 0","Normal: 0
+Fighting: 0
+Flying: 0
+Poison: 0
+Ground: 0
+Rock: 0
+Bug: 0
+Ghost: 0
+Steel: 0
+Fire: 0
+Water: 2
+Grass: 2
+Electric: 0
+Psychic: 0
+Ice: 0
+Dragon: 0
+Dark: 0
+Fairy: 0",pi_chilisauce,0
+Cream Cheese,"Sweet: 12
+Salty: 12
+Sour: 12
+Bitter: 0
+Hot: 0
+Umami: 0","Egg Power: 5
+Catching Power: 0
+Exp. Power: -3
+Item Drop Power: 12
+Raid Power: 0
+Title Power: 0
+Sparkling Power: 0
+Humongo Power: 0
+Teensy Power: -15
+Encounter Power: 0","Normal: 0
+Fighting: 0
+Flying: 0
+Poison: 0
+Ground: 0
+Rock: 0
+Bug: 4
+Ghost: 0
+Steel: 4
+Fire: 0
+Water: 4
+Grass: 0
+Electric: 0
+Psychic: 0
+Ice: 0
+Dragon: 0
+Dark: 0
+Fairy: 0",pi_creamcheese,0
+Curry Powder,"Sweet: 4
+Salty: 4
+Sour: 4
+Bitter: 12
+Hot: 30
+Umami: 0","Egg Power: 0
+Catching Power: 0
+Exp. Power: 0
+Item Drop Power: 0
+Raid Power: 0
+Title Power: 0
+Sparkling Power: 0
+Humongo Power: -3
+Teensy Power: 21
+Encounter Power: 12","Normal: 0
+Fighting: 0
+Flying: 0
+Poison: 0
+Ground: 0
+Rock: 0
+Bug: 2
+Ghost: 2
+Steel: 2
+Fire: 2
+Water: 2
+Grass: 2
+Electric: 0
+Psychic: 0
+Ice: 0
+Dragon: 0
+Dark: 0
+Fairy: 0",pi_currypowder,0
+Horseradish,"Sweet: 4
+Salty: 0
+Sour: 0
+Bitter: 0
+Hot: 16
+Umami: 0","Egg Power: 0
+Catching Power: 0
+Exp. Power: 0
+Item Drop Power: 0
+Raid Power: 0
+Title Power: 0
+Sparkling Power: 0
+Humongo Power: -3
+Teensy Power: 21
+Encounter Power: 12","Normal: 2
+Fighting: 2
+Flying: 2
+Poison: 2
+Ground: 2
+Rock: 2
+Bug: 0
+Ghost: 0
+Steel: 0
+Fire: 0
+Water: 0
+Grass: 0
+Electric: 0
+Psychic: 0
+Ice: 0
+Dragon: 0
+Dark: 0
+Fairy: 0",pi_horseradish,0
+Ketchup,"Sweet: 8
+Salty: 16
+Sour: 16
+Bitter: 0
+Hot: 0
+Umami: 0","Egg Power: -3
+Catching Power: 0
+Exp. Power: 12
+Item Drop Power: 0
+Raid Power: 21
+Title Power: 0
+Sparkling Power: 0
+Humongo Power: 0
+Teensy Power: 0
+Encounter Power: 0","Normal: 0
+Fighting: 0
+Flying: 2
+Poison: 2
+Ground: 0
+Rock: 0
+Bug: 0
+Ghost: 0
+Steel: 0
+Fire: 0
+Water: 0
+Grass: 0
+Electric: 0
+Psychic: 0
+Ice: 0
+Dragon: 0
+Dark: 0
+Fairy: 0",pi_ketchup,0
+Marmalade,"Sweet: 12
+Salty: 4
+Sour: 16
+Bitter: 20
+Hot: 0
+Umami: 0","Egg Power: 5
+Catching Power: 0
+Exp. Power: -3
+Item Drop Power: 12
+Raid Power: 0
+Title Power: 0
+Sparkling Power: 0
+Humongo Power: 0
+Teensy Power: -15
+Encounter Power: 0","Normal: 0
+Fighting: 4
+Flying: 0
+Poison: 4
+Ground: 0
+Rock: 4
+Bug: 0
+Ghost: 0
+Steel: 0
+Fire: 0
+Water: 0
+Grass: 0
+Electric: 0
+Psychic: 0
+Ice: 0
+Dragon: 0
+Dark: 0
+Fairy: 0",pi_marmalade,0
+Mayonnaise,"Sweet: 0
+Salty: 8
+Sour: 20
+Bitter: 0
+Hot: 0
+Umami: 0","Egg Power: -3
+Catching Power: 0
+Exp. Power: 12
+Item Drop Power: 0
+Raid Power: 21
+Title Power: 0
+Sparkling Power: 0
+Humongo Power: 0
+Teensy Power: 0
+Encounter Power: 0","Normal: 2
+Fighting: 2
+Flying: 0
+Poison: 0
+Ground: 0
+Rock: 0
+Bug: 0
+Ghost: 0
+Steel: 0
+Fire: 0
+Water: 0
+Grass: 0
+Electric: 0
+Psychic: 0
+Ice: 0
+Dragon: 0
+Dark: 0
+Fairy: 0",pi_mayonnaise,0
+Mustard,"Sweet: 4
+Salty: 8
+Sour: 8
+Bitter: 8
+Hot: 16
+Umami: 0","Egg Power: -3
+Catching Power: 0
+Exp. Power: 12
+Item Drop Power: 0
+Raid Power: 21
+Title Power: 0
+Sparkling Power: 0
+Humongo Power: 0
+Teensy Power: 0
+Encounter Power: 0","Normal: 0
+Fighting: 0
+Flying: 0
+Poison: 0
+Ground: 2
+Rock: 2
+Bug: 0
+Ghost: 0
+Steel: 0
+Fire: 0
+Water: 0
+Grass: 0
+Electric: 0
+Psychic: 0
+Ice: 0
+Dragon: 0
+Dark: 0
+Fairy: 0",pi_mustard,0
+Olive Oil,"Sweet: 0
+Salty: 0
+Sour: 4
+Bitter: 4
+Hot: 0
+Umami: 0","Egg Power: 5
+Catching Power: 0
+Exp. Power: -3
+Item Drop Power: 12
+Raid Power: 0
+Title Power: 0
+Sparkling Power: 0
+Humongo Power: 0
+Teensy Power: -15
+Encounter Power: 0","Normal: 0
+Fighting: 0
+Flying: 0
+Poison: 0
+Ground: 0
+Rock: 0
+Bug: 0
+Ghost: 4
+Steel: 0
+Fire: 4
+Water: 0
+Grass: 4
+Electric: 0
+Psychic: 0
+Ice: 0
+Dragon: 0
+Dark: 0
+Fairy: 0",pi_oliveoil,0
+Peanut Butter,"Sweet: 16
+Salty: 12
+Sour: 0
+Bitter: 0
+Hot: 0
+Umami: 0","Egg Power: -3
+Catching Power: 0
+Exp. Power: 12
+Item Drop Power: 0
+Raid Power: 21
+Title Power: 0
+Sparkling Power: 0
+Humongo Power: 0
+Teensy Power: 0
+Encounter Power: 0","Normal: 0
+Fighting: 0
+Flying: 0
+Poison: 0
+Ground: 0
+Rock: 0
+Bug: 0
+Ghost: 0
+Steel: 2
+Fire: 2
+Water: 0
+Grass: 0
+Electric: 0
+Psychic: 0
+Ice: 0
+Dragon: 0
+Dark: 0
+Fairy: 0",pi_peanutbutter,0
+Pepper,"Sweet: 0
+Salty: 4
+Sour: 0
+Bitter: 8
+Hot: 16
+Umami: 0","Egg Power: -3
+Catching Power: 0
+Exp. Power: 12
+Item Drop Power: 0
+Raid Power: 21
+Title Power: 0
+Sparkling Power: 0
+Humongo Power: 0
+Teensy Power: 0
+Encounter Power: 0","Normal: 0
+Fighting: 0
+Flying: 0
+Poison: 0
+Ground: 0
+Rock: 0
+Bug: 0
+Ghost: 0
+Steel: 0
+Fire: 0
+Water: 0
+Grass: 0
+Electric: 0
+Psychic: 0
+Ice: 2
+Dragon: 2
+Dark: 0
+Fairy: 0",pi_pepper,0
+Salt,"Sweet: 0
+Salty: 20
+Sour: 0
+Bitter: 4
+Hot: 0
+Umami: 0","Egg Power: -3
+Catching Power: 0
+Exp. Power: 12
+Item Drop Power: 0
+Raid Power: 21
+Title Power: 0
+Sparkling Power: 0
+Humongo Power: 0
+Teensy Power: 0
+Encounter Power: 0","Normal: 0
+Fighting: 0
+Flying: 0
+Poison: 0
+Ground: 0
+Rock: 0
+Bug: 0
+Ghost: 0
+Steel: 0
+Fire: 0
+Water: 0
+Grass: 0
+Electric: 2
+Psychic: 2
+Ice: 0
+Dragon: 0
+Dark: 0
+Fairy: 0",pi_salt,0
+Bitter Herba Mystica,"Sweet: 0
+Salty: 0
+Sour: 0
+Bitter: 500
+Hot: 0
+Umami: 0","Egg Power: 0
+Catching Power: 0
+Exp. Power: 0
+Item Drop Power: 0
+Raid Power: 0
+Title Power: 1000
+Sparkling Power: 0
+Humongo Power: 0
+Teensy Power: 0
+Encounter Power: 0","Normal: 250
+Fighting: 250
+Flying: 250
+Poison: 250
+Ground: 250
+Rock: 250
+Bug: 250
+Ghost: 250
+Steel: 250
+Fire: 250
+Water: 250
+Grass: 250
+Electric: 250
+Psychic: 250
+Ice: 250
+Dragon: 250
+Dark: 250
+Fairy: 250",pi_watercress_bitter,0
+Spicy Herba Mystica,"Sweet: 0
+Salty: 0
+Sour: 0
+Bitter: 0
+Hot: 500
+Umami: 0","Egg Power: 0
+Catching Power: 0
+Exp. Power: 0
+Item Drop Power: 0
+Raid Power: 0
+Title Power: 1000
+Sparkling Power: 0
+Humongo Power: 0
+Teensy Power: 0
+Encounter Power: 0","Normal: 250
+Fighting: 250
+Flying: 250
+Poison: 250
+Ground: 250
+Rock: 250
+Bug: 250
+Ghost: 250
+Steel: 250
+Fire: 250
+Water: 250
+Grass: 250
+Electric: 250
+Psychic: 250
+Ice: 250
+Dragon: 250
+Dark: 250
+Fairy: 250",pi_watercress_hot,0
+Salty Herba Mystica,"Sweet: 0
+Salty: 500
+Sour: 0
+Bitter: 0
+Hot: 0
+Umami: 0","Egg Power: 0
+Catching Power: 0
+Exp. Power: 0
+Item Drop Power: 0
+Raid Power: 0
+Title Power: 1000
+Sparkling Power: 0
+Humongo Power: 0
+Teensy Power: 0
+Encounter Power: 0","Normal: 250
+Fighting: 250
+Flying: 250
+Poison: 250
+Ground: 250
+Rock: 250
+Bug: 250
+Ghost: 250
+Steel: 250
+Fire: 250
+Water: 250
+Grass: 250
+Electric: 250
+Psychic: 250
+Ice: 250
+Dragon: 250
+Dark: 250
+Fairy: 250",pi_watercress_salty,0
+Sour Herba Mystica,"Sweet: 0
+Salty: 0
+Sour: 500
+Bitter: 0
+Hot: 0
+Umami: 0","Egg Power: 0
+Catching Power: 0
+Exp. Power: 0
+Item Drop Power: 0
+Raid Power: 0
+Title Power: 1000
+Sparkling Power: 0
+Humongo Power: 0
+Teensy Power: 0
+Encounter Power: 0","Normal: 250
+Fighting: 250
+Flying: 250
+Poison: 250
+Ground: 250
+Rock: 250
+Bug: 250
+Ghost: 250
+Steel: 250
+Fire: 250
+Water: 250
+Grass: 250
+Electric: 250
+Psychic: 250
+Ice: 250
+Dragon: 250
+Dark: 250
+Fairy: 250",pi_watercress_sour,0
+Sweet Herba Mystica,"Sweet: 500
+Salty: 0
+Sour: 0
+Bitter: 0
+Hot: 0
+Umami: 0","Egg Power: 0
+Catching Power: 0
+Exp. Power: 0
+Item Drop Power: 0
+Raid Power: 0
+Title Power: 1000
+Sparkling Power: 0
+Humongo Power: 0
+Teensy Power: 0
+Encounter Power: 0","Normal: 250
+Fighting: 250
+Flying: 250
+Poison: 250
+Ground: 250
+Rock: 250
+Bug: 250
+Ghost: 250
+Steel: 250
+Fire: 250
+Water: 250
+Grass: 250
+Electric: 250
+Psychic: 250
+Ice: 250
+Dragon: 250
+Dark: 250
+Fairy: 250",pi_watercress_sweet,0
+Vinegar,"Sweet: 4
+Salty: 0
+Sour: 20
+Bitter: 4
+Hot: 0
+Umami: 0","Egg Power: 5
+Catching Power: 0
+Exp. Power: -3
+Item Drop Power: 12
+Raid Power: 0
+Title Power: 0
+Sparkling Power: 0
+Humongo Power: 0
+Teensy Power: -15
+Encounter Power: 0","Normal: 0
+Fighting: 0
+Flying: 0
+Poison: 0
+Ground: 0
+Rock: 0
+Bug: 0
+Ghost: 0
+Steel: 0
+Fire: 0
+Water: 0
+Grass: 0
+Electric: 0
+Psychic: 4
+Ice: 0
+Dragon: 4
+Dark: 0
+Fairy: 4",pi_vinegar,0
+Wasabi,"Sweet: 4
+Salty: 4
+Sour: 0
+Bitter: 0
+Hot: 20
+Umami: 0","Egg Power: 0
+Catching Power: 0
+Exp. Power: 0
+Item Drop Power: 0
+Raid Power: 0
+Title Power: 0
+Sparkling Power: 0
+Humongo Power: -3
+Teensy Power: 21
+Encounter Power: 12","Normal: 0
+Fighting: 0
+Flying: 0
+Poison: 0
+Ground: 0
+Rock: 0
+Bug: 0
+Ghost: 0
+Steel: 0
+Fire: 0
+Water: 0
+Grass: 0
+Electric: 2
+Psychic: 2
+Ice: 2
+Dragon: 2
+Dark: 2
+Fairy: 2",pi_wasabisauce,0
+Whipped Cream,"Sweet: 20
+Salty: 0
+Sour: 0
+Bitter: 0
+Hot: 0
+Umami: 0","Egg Power: 5
+Catching Power: 0
+Exp. Power: -3
+Item Drop Power: 12
+Raid Power: 0
+Title Power: 0
+Sparkling Power: 0
+Humongo Power: 0
+Teensy Power: -15
+Encounter Power: 0","Normal: 4
+Fighting: 0
+Flying: 4
+Poison: 0
+Ground: 4
+Rock: 0
+Bug: 0
+Ghost: 0
+Steel: 0
+Fire: 0
+Water: 0
+Grass: 0
+Electric: 0
+Psychic: 0
+Ice: 0
+Dragon: 0
+Dark: 0
+Fairy: 0",pi_whippedcream,0
+Yogurt,"Sweet: 16
+Salty: 0
+Sour: 16
+Bitter: 0
+Hot: 0
+Umami: 0","Egg Power: -3
+Catching Power: 0
+Exp. Power: 12
+Item Drop Power: 0
+Raid Power: 21
+Title Power: 0
+Sparkling Power: 0
+Humongo Power: 0
+Teensy Power: 0
+Encounter Power: 0","Normal: 0
+Fighting: 0
+Flying: 0
+Poison: 0
+Ground: 0
+Rock: 0
+Bug: 0
+Ghost: 0
+Steel: 0
+Fire: 0
+Water: 0
+Grass: 0
+Electric: 0
+Psychic: 0
+Ice: 0
+Dragon: 0
+Dark: 2
+Fairy: 2",pi_yogurt,0
